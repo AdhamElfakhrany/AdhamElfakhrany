@@ -38,9 +38,9 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
-- GitHub: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
+- LinkedIn: [linkedin.com/in/adhamElfakhrany ]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/adhamelfakhrany/))
+- Email: adham.elfakhrany10@gmail.com
+- GitHub: [github.com/adhamelfakhrany]([https://github.com/YOURUSERNAME](https://github.com/AdhamElfakhrany))
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
