@@ -41,3 +41,12 @@
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - Email: your.email@example.com
 - GitHub: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+
+![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
