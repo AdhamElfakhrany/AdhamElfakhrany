@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Java, Data Engineering, AWS Cloud**
 - 🎓 Studying at **AAST College of Computing and IT**
 - 👨‍💻 Completed internships in **Cybersecurity** and **Banking**
-- 🎯 Goal: Become a **Remote Data Engineer in the USA**
+- 🎯 Goal: Become a ** Data Engineer **
 
 ---
 
