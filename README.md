@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Java, Data Engineering, AWS Cloud**
+- 🌱 Currently learning **Python, Data Engineering, AWS Cloud**
 - 🎓 Studying at **AAST College of Computing and IT**
 - 👨‍💻 Completed internships in **Cybersecurity** and **Banking**
 - 🎯 Goal: Become a ** Data Engineer **
@@ -20,11 +20,11 @@
 ---
 
 ## 📂 Featured Projects
-- ✈️ [Airline Reservation System](https://github.com/YOURUSERNAME/airline-reservation)  
-  *JavaFX + MySQL project with OOP, file handling, and GUI.*
-- 🚗 [Car Rental System](https://github.com/YOURUSERNAME/car-rental)  
+- ✈️ [Heart-Disease-ML-Project](https://github.com/AdhamElfakhrany/Heart-Disease-ML-Project)  
+  *machine learning + MySQL project with OOP, scikit-learn.*
+- 🚗 [Car Rental System](https://github.com/AdhamElfakhrany/car-rental)  
   *PHP, HTML, CSS, Bootstrap web app for car rentals.*
-- 📊 [ETL Pipeline Project](https://github.com/YOURUSERNAME/etl-pipeline)  
+- 📊 [ETL Pipeline Project](https://github.com/AdhamElfakhrany/Real-time-IoT-Data-Pipeline)  
   *Python ETL to extract from CSV/JSON, transform, and load into SQLite.*
 
 ---
